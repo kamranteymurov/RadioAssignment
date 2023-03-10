@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RadioFreeEuropeAssignment.props" />
+</Project>

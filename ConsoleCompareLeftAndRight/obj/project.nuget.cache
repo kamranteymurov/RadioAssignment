@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sLdvMS7B/+TO0SQnVBJZ1pq1p2mxy36b/BHSgNkKnxO7RUmRKFtlP1gJCfRcUwGnE3NR9bbyVg6vwz4A09YMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Kamran\\Radio\\RadioTest\\ConsoleCompareLeftAndRight\\ConsoleCompareLeftAndRight.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teymu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

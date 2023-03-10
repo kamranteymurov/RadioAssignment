@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tNNuGsUDn8qldOlUzCy00t/lUOf30EHnCRsSgI1V2VRbZnc3C8Lg47vAzNjrriJXbi/mcYcfHc86+K1K5/60Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Kamran\\Radio\\RadioTest\\RadioFreeEuropeAssignment\\RadioFreeEuropeAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teymu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\teymu\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

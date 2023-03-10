@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26b6c7b7-745d-4f0f-b82d-2c3d7f985295": {
+      "ProjectGuid": "26b6c7b7-745d-4f0f-b82d-2c3d7f985295",
+      "DisplayName": "RadioFreeEuropeAssignment",
+      "ColorIndex": 0
+    },
+    "b9bd0196-7fc7-4e57-b3b3-851b7a31a5ed": {
+      "ProjectGuid": "b9bd0196-7fc7-4e57-b3b3-851b7a31a5ed",
+      "DisplayName": "RadioTest",
+      "ColorIndex": 1
+    },
+    "5b64cfb8-af0a-485a-86f7-c5daa337496b": {
+      "ProjectGuid": "5b64cfb8-af0a-485a-86f7-c5daa337496b",
+      "DisplayName": "ConsoleCompareLeftAndRight",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
